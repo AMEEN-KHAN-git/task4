@@ -46,3 +46,4 @@ Day 5 task of the Data Analyst Internship
 
 ## Tools Used
 - MySQL 8.x CLI
+- delivery-ecommerce-online-shopping datase (Kaggle, https://www.kaggle.com/datasets/anuragtupate/delivery-ecommerce-online-shopping)
